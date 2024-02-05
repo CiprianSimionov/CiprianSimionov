@@ -1,8 +1,8 @@
-I’m Ciprian Simionov and this is my GitHub portfolio.
+### I’m Ciprian Simionov and this is my GitHub portfolio.
 
-I’m interested in Quality Assurance Software Testing.
+### I’m interested in Quality Assurance Software Testing.
 
-I’m looking forward to collaborate on different Software Testing opportunities.
+### I’m looking forward to collaborate on different Software Testing opportunities.
 
 ----------------------------------------------------------------
 
@@ -15,7 +15,7 @@ I am strongly motivated, quite curious, and eager to expand my skills.
 
 *My LinkedIn profile: www.linkedin.com/in/cipriansimionov*
 
-*The Informal School course: https://cutt.ly/eG5Wdbq *
+*The Informal School course: https://cutt.ly/eG5Wdbq*
 
 *My Udemy courses: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/ \
 		 https://www.udemy.com/course/testare-automata-selenium-python-pom/*
