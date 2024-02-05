@@ -18,4 +18,5 @@ My LinkedIn profile: www.linkedin.com/in/cipriansimionov
 The Informal School course: https://cutt.ly/eG5Wdbq 
 
 My Udemy courses: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/
+
 	               https://www.udemy.com/course/testare-automata-selenium-python-pom/
