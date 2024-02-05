@@ -8,7 +8,7 @@
 
 > During my online QA courses, I've learned about API testing using Postman, manual testing, writing bug reports & test cases, agile methodology and automation testing using CypressJS.
 
-> I'm always willing to learn, one of my beliefs is continuous learning.
+> I'm always willing to learn, one of my beliefs is continuous learning. \
 > I am strongly motivated, quite curious, and eager to expand my skills.
 
 ----------------------------------------------------------------
