@@ -13,7 +13,7 @@
 
 ----------------------------------------------------------------
 
-*My LinkedIn profile: www.linkedin.com/in/cipriansimionov*
+*[My LinkedIn profile:](www.linkedin.com/in/cipriansimionov)*
 
 *The Informal School course: https://cutt.ly/eG5Wdbq*
 
