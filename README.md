@@ -6,7 +6,7 @@
 
 ----------------------------------------------------------------
 
-> During my online QA courses, I've learned about API testing using Postman, manual testing, writing bug reports & test cases, agile methodology and automation testing using CypressJS.
+> During my online QA courses, I've learned about API testing, Selenium Webdriver, creating testing portfolio with BDD and Unit Test Library for web automation.
 
 > I'm always willing to learn, one of my beliefs is continuous learning. \
 > I am strongly motivated, quite curious, and eager to expand my skills.
@@ -15,7 +15,11 @@
 
 *[My LinkedIn profile](https://www.linkedin.com/in/cipriansimionov)*
 
-*[The Informal School course](https://cutt.ly/eG5Wdbq)*
+*[It Factory - QA Automation Testing](https://cutt.ly/qeJcrS67)*
+
+*[It Factory - Python Development](https://cutt.ly/aeJce8Bo)*
+
+*[Certified Software Testing](https://cutt.ly/eG5Wdbq)*
 
 *[Postman API Fundamentals](https://badgr.com/public/assertions/WbKnTLzDRHOf9zrzM6eYVg?identity__email=simionov.ciprian@gmail.com)*
 
