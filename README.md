@@ -23,5 +23,5 @@
 
 *[Postman API Fundamentals](https://badgr.com/public/assertions/WbKnTLzDRHOf9zrzM6eYVg?identity__email=simionov.ciprian@gmail.com)*
 
-*[Curs QA Testare Manuala si Automata](https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/) \
-		 [Testare Automata cu Selenium si Python](https://www.udemy.com/course/testare-automata-selenium-python-pom/)*
+*[Curs QA Testare Manuala si Automata](https://cutt.ly/1eJcakGi) \
+		 [Testare Automata cu Selenium si Python](https://cutt.ly/leJcpiOF)*
